@@ -1,0 +1,32 @@
+.jumbotron{
+    background-color: black;
+}
+
+.jumbo-text{
+    text-align: center;
+    color: white;
+    
+}
+
+.panel{
+    border: solid;
+    border-width: 1px;
+    border-color: steelblue;
+    border-radius: 5px;
+}
+
+.panel-heading{
+   
+    background-color: steelblue;
+    color: white;
+    padding: 5px;
+
+}
+
+.panel-body{
+    padding: 15px;
+}
+
+#submition{
+    margin-bottom: 10px;
+}
